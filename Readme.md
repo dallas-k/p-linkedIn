@@ -15,3 +15,10 @@
   <li>Oneline Class - Video</li>
   <li>채용공고</li>
 </ul>
+
+<h2>기술 스택</h2>
+    <ul>
+        <li>React</li>
+        <li>PHP</li>
+        <li>MYSQL</li>
+    </ul>
